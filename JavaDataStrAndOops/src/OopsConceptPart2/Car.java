@@ -1,0 +1,24 @@
+package OopsConceptPart2;
+
+//parent class
+public class Car extends Vechile{
+	
+	
+	
+	public void start()
+	{
+		System.out.println("Car-----start");
+	}
+	
+	public void stop()
+	{
+		System.out.println("Car----stop");
+	}
+	
+	public void refule()
+	{
+		System.out.println("Car----refule");
+	}
+
+
+}
